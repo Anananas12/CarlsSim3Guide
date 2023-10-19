@@ -1,0 +1,13 @@
+read <source IP>
+Send <source IP> to Peterpine60@gmail.com 
+Print message "youhave been pranked haha"
+
+   Inject "Process Lasso"
+   Read Core state: <>
+   Set "Core-enabled:1 to Core-enabled:4"
+   Manually set CPU affinity (grant acess)
+   
+   Repeat "affintiy Changer"
+   "distribute" game load 4 to <SPLIT>
+   
+TYPE game FIX or bad into console (loop inifite)
